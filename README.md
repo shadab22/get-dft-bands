@@ -1,4 +1,4 @@
-# Get bands from a bandstructure plot from a WIEN2k run within the range of specified band-index
+# Get bands from a band structure plot from a WIEN2k run within the range of specified band-index
 
 plot_bs_1.py fetches bands from case.spaghetti_ene from a WIEN2k run.
 Input in the bandindex range in an array.
